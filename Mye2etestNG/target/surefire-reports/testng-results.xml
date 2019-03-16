@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.com.CarsTest" duration-ms="20" started-at="2019-03-16T21:37:55Z" finished-at="2019-03-16T21:37:55Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="20" started-at="2019-03-16T21:37:55Z" finished-at="2019-03-16T21:37:55Z">
+      <class name="test.com.CarsTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.com.CarsTest@649d209a]" name="setUpClass" is-config="true" duration-ms="8" started-at="2019-03-16T16:37:55Z" finished-at="2019-03-16T16:37:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.com.CarsTest@649d209a]" name="setUpMethod" is-config="true" duration-ms="2" started-at="2019-03-16T16:37:55Z" finished-at="2019-03-16T16:37:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="validateCar()[pri:0, instance:test.com.CarsTest@649d209a]" name="validateCar" duration-ms="2" started-at="2019-03-16T16:37:55Z" finished-at="2019-03-16T16:37:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCar -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.com.CarsTest@649d209a]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2019-03-16T16:37:55Z" finished-at="2019-03-16T16:37:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.com.CarsTest@649d209a]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2019-03-16T16:37:55Z" finished-at="2019-03-16T16:37:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- test.com.CarsTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.com.CarsTest -->
+</testng-results>
